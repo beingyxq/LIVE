@@ -1,4 +1,24 @@
 #EXTM3U x-tvg-url="https://11.112114.xyz/pp.xml"
+#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
+https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
+#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
+https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
+#EXTINF:-1,tvg-id="视界4K" tvg-name="视界4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",视界4K-主力
+https://mursor.ottiptv.cc/bst/sjpd4k@15000000.m3u8
+#EXTINF:-1,tvg-id="电影4K" tvg-name="电影4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",电影4K-主力
+https://mursor.ottiptv.cc/bst/dypd4k@15000000.m3u8
+#EXTINF:-1,tvg-id="少儿4K" tvg-name="少儿4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",少儿4K-主力
+https://mursor.ottiptv.cc/bst/sepd4k@15000000.m3u8
+#EXTINF:-1,tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K-主力
+https://mursor.ottiptv.cc/bst/hxjc4k@15000000.m3u8
+#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="4K频道",cctv4k-主力
+https://mursor.ottiptv.cc/bst/cctv4k@15000000.m3u8
+#EXTINF:-1,tvg-id="cctv164k" tvg-name="cctv164k" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="4K频道",cctv16-4K-主力
+https://mursor.ottiptv.cc/bst/cctv16hd4k@15000000.m3u8
+#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="其他",重温经典
+https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
+#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="其他",五星体育
+https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2201/057/821/202204010054_1626677502161_H169_1080.jpg" group-title="央视", CCTV1综合
 https://mursor.ottiptv.cc/migu/608807420.m3u8?migutoken=106324b7bddde5d8f239c47df286bfea78dc4414a28be116a9b6f8b16a7e1be989080ca6df45e2c3c7cbb8a73308c31710e9aa616a2f668c4f347d1673aa8e09eea0b54bbd518b8b98b66cbc63
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5500/346/945/202205311432_1653977575541_H169_1080.jpg" group-title="央视", CCTV2财经
@@ -46,22 +66,6 @@ https://mursor.ottiptv.cc/migu/609006450.m3u8?migutoken=9112df5be2650e7c47cb4874
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/324/202502251559_1740470364968_H169_1080.jpg" group-title="央视", CGTN法语
 https://mursor.ottiptv.cc/migu/609006476.m3u8?migutoken=795d15a2934ef1b202d4a5b7cfeac942861464a7dafe5e7e6edf50af1c9a53a4f9bf55294a25c0c293694dab0946975caf9b026c81f6024f8cde5471772b16b2f0d365b34e699747b060daac61
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/2200/179/332/202502251558_1740470310039_H169_1080.jpg" group-title="央视", CGTN俄语
-#EXTINF:-1,tvg-id="视界4K" tvg-name="视界4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",视界4K-主力
-https://mursor.ottiptv.cc/bst/sjpd4k@15000000.m3u8
-#EXTINF:-1,tvg-id="电影4K" tvg-name="电影4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",电影4K-主力
-https://mursor.ottiptv.cc/bst/dypd4k@15000000.m3u8
-#EXTINF:-1,tvg-id="少儿4K" tvg-name="少儿4K" tvg-logo="https://11.112114.xyz/logo/bestv4k.png" group-title="4K频道",少儿4K-主力
-https://mursor.ottiptv.cc/bst/sepd4k@15000000.m3u8
-#EXTINF:-1,tvg-id="欢笑剧场4K" tvg-name="欢笑剧场4K" tvg-logo="https://11.112114.xyz/logo/欢笑剧场.png" group-title="4K频道",欢笑剧场4K-主力
-https://mursor.ottiptv.cc/bst/hxjc4k@15000000.m3u8
-#EXTINF:-1,tvg-id="cctv4k" tvg-name="cctv4k" tvg-logo="https://11.112114.xyz/logo/cctv4k.png" group-title="4K频道",cctv4k-主力
-https://mursor.ottiptv.cc/bst/cctv4k@15000000.m3u8
-#EXTINF:-1,tvg-id="cctv164k" tvg-name="cctv164k" tvg-logo="https://11.112114.xyz/logo/cctv16.png" group-title="4K频道",cctv16-4K-主力
-https://mursor.ottiptv.cc/bst/cctv16hd4k@15000000.m3u8
-#EXTINF:-1,tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://11.112114.xyz/logo/重温经典.png" group-title="其他",重温经典
-https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-#EXTINF:-1,tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://11.112114.xyz/logo/五星体育.png" group-title="其他",五星体育
-https://gdcucc.v1.mk/gdcucc/wxty.m3u8
 https://mursor.ottiptv.cc/migu/609006446.m3u8?migutoken=d8aa6f28140c84abd1f017e76612d78c201f6e36d174cf614ae15acea79f477a88fb41888ce8e17e63dc438e4920987d46e8231bc00540940b14d8c3082fafd9d81359cff35f3d98988d63ddb7
 #EXTINF:-1 tvg-logo="https://wapx.cmvideo.cn/publish/poms/image/5910/022/002/202405081702_1715158642984_H169_1080.jpg" group-title="央视", 老故事
 https://mursor.ottiptv.cc/migu/884121956.m3u8?migutoken=e807f1332ae96dcfbcad4a0564d36a5101a5343237f073f420c412fd99403f918a7d8b2e8fea74a73a6e365658a008a884d46a38a8391571e2a7c11f9ebe17545570903e485ae60919c4a9a563
@@ -425,7 +429,3 @@ https://mursor.ottiptv.cc/bst/yggwsd2d5m@2500000.m3u8
 https://mursor.ottiptv.cc/bst/ssws2d5m@2500000.m3u8
 #EXTINF:-1,tvg-id="乐游" tvg-name="乐游" tvg-logo="https://11.112114.xyz/logo/乐游.png" group-title="主力-其他",乐游-主力
 https://mursor.ottiptv.cc/bst/qjshd@4000000.m3u8
-#EXTINF:-1 tvg-name="4K60PSDR-H264-AAC测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PSDR-H264-AAC测试
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/sdr4kvideo/playlist.m3u8
-#EXTINF:-1 tvg-name="4K60PHLG-HEVC-EAC3测试" tvg-logo="https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/tg.jpg" group-title="4K频道",4K60PHLG-HEVC-EAC3测试
-https://cdn.jsdelivr.net/gh/feiyang666999/testvideo/hlg4kvideo/playlist.m3u8
